@@ -46,14 +46,9 @@ Este proyecto ha sido desarrollado, en conjunto, por:
 	<td> <b>Correo electrónico</b> </td>
   </tr>
   <tr style="background-color: #FFFFFF;">
-    <td> Daniel Herzog Cruz </td>
-    <td> alu0100699494 </td>
-	<td> <a href="mailto:alu0100699494@ull.edu.es">alu0100699494@ull.edu.es</a> </td>
-  </tr>
-  <tr style="background-color: #FFFFFF;">
-    <td> Laura Fariña Rodríguez </td>
-    <td> alu0100693096 </td>
-	<td> <a href="mailto:alu0100693096@ull.edu.es">alu0100693096@ull.edu.es</a> </td>
-  </tr>
+    <td> Enrique Tejera González </td>
+    <td> alu0100537512 </td>
+	<td> <a href="mailto:alu0100537512@ull.edu.es">alu0100537512@ull.edu.es</a> </td>
+  </tr
 </table>
 <!-- Fin tabla -->
